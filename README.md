@@ -3,7 +3,8 @@
 
 The Retail Sales Performance Dashboard is a business intelligence project developed using Power BI, SQL Server, Python, and Excel. The project analyzes retail sales data to monitor business performance, identify sales trends, evaluate product performance, and understand customer behavior through interactive dashboards.
 
-**Objectives**
+**Objectives** 
+
 • Analyze retail sales performance across regions and categories.
 • Track key sales KPIs and revenue trends.
 • Identify top-performing products and customer segments.
@@ -11,17 +12,20 @@ The Retail Sales Performance Dashboard is a business intelligence project develo
 • Support data-driven decision-making.
 
 **Dataset**
+
 • Records: 9,800+
 • Columns: 17
 • Domain: Retail Sales
 
 **Tools & Technologies**
+
 • Power BI
 • Microsoft SQL Server
 • Python (Pandas)
 • Microsoft Excel
 
 **Project Workflow**
+
 1. Data collection and understanding
 2. Data cleaning and validation using Python and Excel
 3. Data import into SQL Server
@@ -30,6 +34,7 @@ The Retail Sales Performance Dashboard is a business intelligence project develo
 6. Business insight generation
 
 **SQL Reports Created**
+
 • Sales Performance Report
 • Regional Sales Report
 • Category & Sub-Category Report
@@ -40,11 +45,13 @@ The Retail Sales Performance Dashboard is a business intelligence project develo
 • Top 10 Products Report  
 
 **Power BI Dashboards**
+
 1. Sales Overvie
 2. Product Analysis
 3. Customer Segment Analysis
 
 **Key Insights**
+
 1. Identified top-performing products contributing the highest revenue.
 2. Compared sales performance across regions and categories.
 3. Analyzed customer purchasing behavior by segment.
@@ -52,6 +59,7 @@ The Retail Sales Performance Dashboard is a business intelligence project develo
 5. Created KPI dashboards to support business reporting and decision-making.
 
 **Repository Structure**
+
 Retail-Sales-Performance-Dashboard/
 │── Dataset/
 │── SQL/
@@ -60,6 +68,7 @@ Retail-Sales-Performance-Dashboard/
 │── README.md
 
 **Skills Demonstrated**
+
 • Data Cleaning
 • Data Validation
 • SQL Reporting
